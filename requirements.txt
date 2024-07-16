@@ -9,3 +9,4 @@ PyYAML==3.11
 six==1.9.0
 Twisted==13.2.0
 zope.interface==4.1.2
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
